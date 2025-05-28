@@ -1,4 +1,4 @@
-# 🛡️ ScamShield – Cyber Scam Awareness & Detection
+# 🛡️ Cyber-Scam-Awareness-for-Seniors
 
 Welcome to **ScamShield**, a simple yet powerful web application designed to educate users about cyber scams, test their awareness through a quiz, and help detect suspicious messages in real-time.
 
@@ -23,4 +23,10 @@ Browse through tips and facts about how to stay safe online and avoid falling vi
 
     CSS3 – Responsive design and UI
 
-    JavaScript (optional) – For quiz logic/message analysis (if added)
+    JavaScript  For quiz logic/message analysis
+
+    ## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](image/home.png)
+
